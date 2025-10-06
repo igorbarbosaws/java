@@ -41,3 +41,17 @@ class Subtracao{
         System.out.println(10 - 5);
     }
 }
+
+class Multiplicação{
+
+    public static void main(String[] args) {
+        System.out.println(10*2);
+    }
+}
+
+class Divisão{
+
+    public static void main(String[] args) {
+        System.out.println(10/2);
+    }
+}
