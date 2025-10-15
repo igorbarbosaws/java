@@ -6,7 +6,7 @@ public class Main {
         int anoDeLancamento = 1972;
         System.out.println("Ano de lançamento: " + anoDeLancamento);
         boolean incluidoNoPlano = true;
-        double notDoFilme = 9.2;
-        System.out.println("IMDB = " + notDoFilme);
+        double notaDoFilme = 9.2;
+        System.out.println("IMDB = " + notaDoFilme);
     }
 }
